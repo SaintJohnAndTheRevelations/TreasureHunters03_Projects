@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="b95586c5-696c-480e-bf20-70e9f4a5cf58" type="23" />
+            <attribute id="Name" value="TreasureHuntersTrainingBowl" type="23" />
+            <attribute id="Type" value="Adventure" type="23" />
+            <attribute id="UUID" value="74149c26-0359-4c22-9eac-69ca44872d95" type="23" />
+        </node>
+    </region>
+</save>
